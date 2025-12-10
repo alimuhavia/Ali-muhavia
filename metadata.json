@@ -1,0 +1,7 @@
+{
+  "name": "EduGuard AI - Smart Academy Manager",
+  "description": "A comprehensive academy management system featuring AI-powered dashboards, camera-based attendance tracking, fee management, and automated student insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
